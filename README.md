@@ -8,7 +8,7 @@ This my personal analysis on myself.
 Language | Skill Level
 ------------ | -------------
 C# | Moderate
-Lua | Moderate
+Lua | Strong
 Python | Basic
 JavaScript | Strong
 HTML | Strong
